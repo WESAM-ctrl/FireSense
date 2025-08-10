@@ -7,7 +7,7 @@ Displays simulated sensor data, temperature trends, smoke & CO levels, interacti
 ---
 
 ## 🌐 Live Demo  
-*(GitHub Pages link after you publish)*  
+https://wesam-ctrl.github.io/FireSense/
 
 ## 📂 Project Files & PDF  
 [Google Drive Folder](https://drive.google.com/drive/folders/1_mUBikaPq7tE-MOZ3tqafqFSUTox3JaW?usp=share_link)  
