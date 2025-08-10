@@ -1,29 +1,38 @@
 # FireSense
-FireSense — AI-powered wildfire detection dashboard A real-time, bilingual (Arabic &amp; English) IoT web dashboard for early wildfire detection in Al Baha, KSA. Features simulated sensor data, interactive charts, location mapping, and integration with cloud-based resources.
 
+**FireSense — AI-powered Wildfire Detection Dashboard**  
+A real-time, bilingual (Arabic & English) IoT web dashboard for early wildfire detection in Al Baha, KSA.  
+Displays simulated sensor data, temperature trends, smoke & CO levels, interactive maps, and an emergency alert system.  
 
-FireSense – AI-powered Wildfire Detection Dashboard
-Bilingual (Arabic & English) IoT dashboard for early wildfire detection in Al Baha, KSA. Displays simulated sensor data, temperature trends, smoke & CO levels, interactive maps, and an emergency alert system.
+---
 
-🌐 Live Demo: (GitHub Pages link after you publish)
-📂 Project Files & PDF: Google Drive Folder
+## 🌐 Live Demo  
+*(GitHub Pages link after you publish)*  
 
-Features
-	•	Bilingual UI (Arabic & English)
-	•	Real-time sensor simulation (temperature, smoke, CO gas)
-	•	Interactive charts with live updates
-	•	Location map with status markers
-	•	Emergency alert system
-	•	Responsive design for desktop and mobile
+## 📂 Project Files & PDF  
+[Google Drive Folder](https://drive.google.com/drive/folders/1_mUBikaPq7tE-MOZ3tqafqFSUTox3JaW?usp=share_link)  
 
-Technologies
-	•	HTML5, CSS3, JavaScript
-	•	Google Fonts (Orbitron, Noto Sans Arabic)
-	•	Responsive design techniques
-	•	GitHub Pages deployment
+---
 
-Usage
-	1.	Clone this repo:
+## Features
+1. **Bilingual UI** (Arabic & English)  
+2. **Real-time sensor simulation** for temperature, smoke, and CO gas.  
+3. **Interactive charts** with live updates.  
+4. **Location map** with status markers.  
+5. **Emergency alert system** for quick response.  
+6. **Responsive design** for desktop and mobile.  
+
+---
+
+## Technologies
+1. HTML5, CSS3, JavaScript  
+2. Google Fonts (Orbitron, Noto Sans Arabic)  
+3. Responsive design techniques  
+4. GitHub Pages deployment  
+
+---
+
+## Usage
+1. **Clone this repo**  
+   ```bash
    git clone https://github.com/WESAM-ctrl/FireSense.git
-	2.	Open index.html in your browser.
-	3.	Or visit the live site via GitHub Pages.
